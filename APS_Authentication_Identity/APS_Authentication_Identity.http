@@ -1,0 +1,6 @@
+@APS_Authentication_Identity_HostAddress = http://localhost:5009
+
+GET {{APS_Authentication_Identity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
